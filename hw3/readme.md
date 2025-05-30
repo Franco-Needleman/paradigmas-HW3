@@ -1,0 +1,1 @@
+moverse de archivos con los comandos cd ../ejerx, x siendo el numero del ejercicio y cuando se encuentre en la carpeta ejecutar con el comando make
