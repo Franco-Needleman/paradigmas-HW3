@@ -1,1 +1,0 @@
-# paradigmas-HW3
